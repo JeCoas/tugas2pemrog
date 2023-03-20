@@ -1,0 +1,15 @@
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\bin\Debug\net6.0\percobaan 2.exe
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\bin\Debug\net6.0\percobaan 2.deps.json
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\bin\Debug\net6.0\percobaan 2.runtimeconfig.json
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\bin\Debug\net6.0\percobaan 2.dll
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\bin\Debug\net6.0\percobaan 2.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.csproj.AssemblyReference.cache
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.AssemblyInfoInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.AssemblyInfo.cs
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.csproj.CoreCompileInputs.cache
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.dll
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\refint\percobaan 2.dll
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.pdb
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\percobaan 2.genruntimeconfig.cache
+D:\AMIKOM\Semester 2\Pemrograman\Pertemuan 1\tugas\percobaan 2\obj\Debug\net6.0\ref\percobaan 2.dll
